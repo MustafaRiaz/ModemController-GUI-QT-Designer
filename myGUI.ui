@@ -38,7 +38,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap resource="resource.qrc">:/images/Ex_Block_diagram.jpg</pixmap>
+    <pixmap resource="resource.qrc">:/images/Ex_Block_diagram.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
@@ -52,22 +52,6 @@
      <width>81</width>
      <height>31</height>
     </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="adcBtn_10">
-   <property name="geometry">
-    <rect>
-     <x>355</x>
-     <y>166</y>
-     <width>73</width>
-     <height>32</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
@@ -205,7 +189,7 @@ background:white;</string>
     <rect>
      <x>1630</x>
      <y>440</y>
-     <width>21</width>
+     <width>31</width>
      <height>41</height>
     </rect>
    </property>
@@ -261,7 +245,7 @@ background:white;</string>
      <x>1070</x>
      <y>225</y>
      <width>83</width>
-     <height>31</height>
+     <height>32</height>
     </rect>
    </property>
    <property name="font">
@@ -288,22 +272,6 @@ ADF41513</string>
      <width>71</width>
      <height>21</height>
     </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="adcBtn_8">
-   <property name="geometry">
-    <rect>
-     <x>562</x>
-     <y>177</y>
-     <width>73</width>
-     <height>32</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
@@ -364,22 +332,6 @@ ADF41513</string>
     <enum>QFrame::Raised</enum>
    </property>
   </widget>
-  <widget class="QPushButton" name="adcBtn_5">
-   <property name="geometry">
-    <rect>
-     <x>800</x>
-     <y>177</y>
-     <width>73</width>
-     <height>32</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
   <widget class="QLabel" name="label_16">
    <property name="geometry">
     <rect>
@@ -401,22 +353,6 @@ ADF41513</string>
      <width>51</width>
      <height>21</height>
     </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="adcBtn_11">
-   <property name="geometry">
-    <rect>
-     <x>270</x>
-     <y>160</y>
-     <width>73</width>
-     <height>32</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
@@ -465,9 +401,9 @@ ADF41513</string>
    <property name="geometry">
     <rect>
      <x>1070</x>
-     <y>520</y>
+     <y>519</y>
      <width>91</width>
-     <height>31</height>
+     <height>32</height>
     </rect>
    </property>
    <property name="font">
@@ -497,54 +433,6 @@ ADF41513</string>
    </property>
    <property name="styleSheet">
     <string notr="true">background:transparent;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="adcBtn_6">
-   <property name="geometry">
-    <rect>
-     <x>720</x>
-     <y>177</y>
-     <width>73</width>
-     <height>32</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="tempSensorBtn">
-   <property name="geometry">
-    <rect>
-     <x>350</x>
-     <y>160</y>
-     <width>81</width>
-     <height>41</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background:transparent;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="adcBtn_12">
-   <property name="geometry">
-    <rect>
-     <x>850</x>
-     <y>120</y>
-     <width>151</width>
-     <height>41</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
@@ -612,9 +500,9 @@ ADF41513</string>
    <property name="geometry">
     <rect>
      <x>190</x>
-     <y>480</y>
+     <y>470</y>
      <width>71</width>
-     <height>21</height>
+     <height>31</height>
     </rect>
    </property>
    <property name="text">
@@ -629,22 +517,6 @@ ADF41513</string>
      <width>51</width>
      <height>51</height>
     </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="adcBtn_9">
-   <property name="geometry">
-    <rect>
-     <x>440</x>
-     <y>166</y>
-     <width>73</width>
-     <height>32</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
@@ -666,9 +538,9 @@ ADF41513</string>
   <widget class="QFrame" name="switchFrame_6">
    <property name="geometry">
     <rect>
-     <x>1260</x>
+     <x>1250</x>
      <y>360</y>
-     <width>31</width>
+     <width>41</width>
      <height>41</height>
     </rect>
    </property>
@@ -713,22 +585,6 @@ ADF41513</string>
      <width>66</width>
      <height>31</height>
     </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="adcBtn_7">
-   <property name="geometry">
-    <rect>
-     <x>640</x>
-     <y>177</y>
-     <width>73</width>
-     <height>32</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true"/>
    </property>
    <property name="text">
     <string/>
@@ -797,7 +653,7 @@ ADF41513</string>
      <x>1680</x>
      <y>340</y>
      <width>31</width>
-     <height>21</height>
+     <height>31</height>
     </rect>
    </property>
    <property name="frameShape">
@@ -845,7 +701,7 @@ ADF41513</string>
      <x>1530</x>
      <y>800</y>
      <width>31</width>
-     <height>31</height>
+     <height>41</height>
     </rect>
    </property>
    <property name="frameShape">
@@ -869,6 +725,228 @@ ADF41513</string>
    </property>
    <property name="frameShadow">
     <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_27">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>170</y>
+     <width>61</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_28">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>170</y>
+     <width>61</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_29">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>180</y>
+     <width>61</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_30">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>180</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_31">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>180</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_32">
+   <property name="geometry">
+    <rect>
+     <x>804</x>
+     <y>180</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QFrame" name="switchFrame_14">
+   <property name="geometry">
+    <rect>
+     <x>376</x>
+     <y>480</y>
+     <width>36</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QFrame" name="switchFrame_15">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>441</y>
+     <width>31</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QFrame" name="switchFrame_16">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>400</y>
+     <width>41</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QFrame" name="switchFrame_17">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>310</y>
+     <width>31</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QFrame" name="switchFrame_18">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>310</y>
+     <width>31</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QFrame" name="switchFrame_19">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>254</y>
+     <width>31</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QFrame" name="switchFrame_20">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>306</y>
+     <width>31</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QFrame" name="switchFrame_21">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>361</y>
+     <width>31</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>167</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:transparent;</string>
+   </property>
+   <property name="text">
+    <string/>
    </property>
   </widget>
  </widget>
