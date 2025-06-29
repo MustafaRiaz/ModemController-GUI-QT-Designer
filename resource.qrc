@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Ex_Block_diagram.jpg</file>
+  </qresource>
+</RCC>
